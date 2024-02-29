@@ -20,11 +20,6 @@ This repository is dedicated to the research and development of a computational 
 ## Research Paper
 For a detailed explanation of our methods, findings, and implications, refer to our published paper: ["A Computational Intelligence Method for Anomalies Detection Improvement in Electrical Consumption Profiles"](https://doi.org/10.1016/j.egyr.2023.12.045).
 
-## Getting Started
-To explore the computational models and data analysis techniques used in this project:
-1. Clone this repository.
-2. Navigate to the `src` directory to view the source code.
-3. Data sets are located in the `data` directory.
 
 ## Contribution
 Contributions to this project are welcome. Please review the `CONTRIBUTING.md` file for guidelines on how to contribute.

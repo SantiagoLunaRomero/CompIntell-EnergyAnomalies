@@ -1,22 +1,26 @@
-# CompIntell-EnergyAnomalies
+# Computational Intelligence for Anomaly Detection in Electrical Consumption
 
-## Project Overview
-This repository houses the "Enhancing Anomaly Detection in Electrical Consumption Profiles through Computational Intelligence" project. It showcases a novel approach that leverages computational intelligence to significantly improve anomaly detection in electrical consumption data, ensuring more efficient energy management and fault identification in various buildings.
+## Overview
+This repository is dedicated to the research and development of a computational intelligence method aimed at improving anomaly detection in electrical consumption profiles. Our approach utilizes historical power consumption data from multiple buildings across different countries to identify anomalous variations in energy use and infer potential causes.
 
-## Key Contributions
-- **Advanced Anomaly Detection**: Implementing cutting-edge machine learning models to detect anomalies with higher precision and lower false positive/negative rates.
-- **Computational Intelligence Techniques**: Utilizing statistical analysis and data normalization in conjunction with AI to understand and categorize consumption patterns.
-- **Energy Management and Efficiency**: Offering insights into energy usage that facilitate better energy management practices and contribute to the sustainability goals of zero energy buildings.
+## Key Features
+- Utilization of five datasets from buildings in Ecuador, Spain, France, and Canada.
+- Statistical analysis to determine daily consumption patterns.
+- Machine learning model for cataloging consumption based on anomaly types.
+- Evaluation showing improvement in accuracy, false positive rate (FPR), and false negative rate (FNR).
+
+## Research Paper
+For a detailed explanation of our methods, findings, and implications, refer to our published paper: ["A Computational Intelligence Method for Anomalies Detection Improvement in Electrical Consumption Profiles"](https://doi.org/10.xxxx/xxxxx). (Replace `https://doi.org/10.xxxx/xxxxx` with the actual DOI link of your paper)
 
 ## Getting Started
-To dive into the project:
-1. Clone the repository to your local machine.
-2. Follow the setup instructions detailed in `setup.md` to prepare your environment.
-3. Explore the `examples` directory to see the project in action.
+To explore the computational models and data analysis techniques used in this project:
+1. Clone this repository.
+2. Navigate to the `src` directory to view the source code.
+3. Data sets are located in the `data` directory.
 
-## Contributing
-We welcome contributions from the community. For guidelines on how to contribute, please check out the `CONTRIBUTING.md` file.
+## Contribution
+Contributions to this project are welcome. Please review the `CONTRIBUTING.md` file for guidelines on how to contribute.
 
 ## License
-This project is released under the MIT License. For more details, see the `LICENSE` file.
+This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 

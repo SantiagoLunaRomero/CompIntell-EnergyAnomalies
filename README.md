@@ -10,7 +10,7 @@ This repository is dedicated to the research and development of a computational 
 - Evaluation showing improvement in accuracy, false positive rate (FPR), and false negative rate (FNR).
 
 ## Research Paper
-For a detailed explanation of our methods, findings, and implications, refer to our published paper: ["A Computational Intelligence Method for Anomalies Detection Improvement in Electrical Consumption Profiles"](https://doi.org/10.xxxx/xxxxx). (Replace `https://doi.org/10.xxxx/xxxxx` with the actual DOI link of your paper)
+For a detailed explanation of our methods, findings, and implications, refer to our published paper: ["A Computational Intelligence Method for Anomalies Detection Improvement in Electrical Consumption Profiles"](https://doi.org/10.1016/j.egyr.2023.12.045).
 
 ## Getting Started
 To explore the computational models and data analysis techniques used in this project:

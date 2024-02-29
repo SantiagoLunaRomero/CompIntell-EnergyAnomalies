@@ -1,4 +1,7 @@
 # Computational Intelligence for Anomaly Detection in Electrical Consumption
+<div align="center">
+  <img src="/images/image.png" alt="Consumption Patterns" width="50%">
+</div>
 
 ## Overview
 This repository is dedicated to the research and development of a computational intelligence method aimed at improving anomaly detection in electrical consumption profiles. Our approach utilizes historical power consumption data from multiple buildings across different countries to identify anomalous variations in energy use and infer potential causes.
